@@ -11,9 +11,9 @@ Below are the questions you are to write SQL queries to find answers to:
 1.	Retrieve the total confirmed, death, and recovered cases.
 2.	Retrieve the total confirmed, deaths and recovered cases for the first quarter of each year of observation.
 3.	Retrieve a summary of all the records. This should include the following information for each country:
-    ●	The total number of confirmed cases 
-    ●	The total number of deaths
-    ●	The total number of recoveries
+    * The total number of confirmed cases 
+    * The total number of deaths
+    * The total number of recoveries
 4.	Retrieve the percentage increase in the number of death cases from 2019 to 2020.
 5.	Retrieve information for the top 5 countries with the highest confirmed cases.
 6.	Compute the total number of drop (decrease) or increase in the confirmed cases from month to month in the 2 years of observation.
