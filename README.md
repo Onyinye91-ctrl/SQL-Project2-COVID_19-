@@ -18,7 +18,7 @@ Below are the questions you are to write SQL queries to find answers to:
 5.	Retrieve information for the top 5 countries with the highest confirmed cases.
 6.	Compute the total number of drop (decrease) or increase in the confirmed cases from month to month in the 2 years of observation.
 
-Part B:
+### Part B:
 The final goal of the assignment is to create a “Covid_19_Status Report” in a reporting tool of your choice (PowerBI or Tableau) that contains graphs that presents your answers in part A above. You can choose any type and format of graphs at your choice to present your insights.
 
 
